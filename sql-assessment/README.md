@@ -1,6 +1,6 @@
 # SQL Challenge
 
-I submitted 2 queries for the questions where it asked for a ranking, and then a specific row for the rwanking, and I designated that in my SQL file comments. I also used marketing performance for the name of the table from the CSV file name, and NOT marketing data from the README.
+****I submitted 2 queries for the questions where it asked for a ranking, and then a specific row for the ranking, and I designated that in my SQL file comments. I also used marketing performance for the name of the table from the CSV file name, and NOT marketing data from the README.
 
 The database contains three tables: marketing_performance, website_revenue, and campaign_info. Refer to the CSV
 files to understand how these tables have been created.
